@@ -47,8 +47,8 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+### Name: SIVAMOHANASUNDARAM. V
+### Register Number: 212222230145
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
