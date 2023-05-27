@@ -46,6 +46,8 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+![241130336-c391bc60-2943-4fb4-9f11-98690fa3196a](https://github.com/SivaMohan-cloud/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/121418870/0c0a8f57-6bd6-40a4-b3f1-80b9e67ff154)
+
 
 ### Name: SIVAMOHANASUNDARAM. V
 ### Register Number: 212222230145
